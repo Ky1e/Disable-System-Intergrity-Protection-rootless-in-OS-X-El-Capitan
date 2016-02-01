@@ -1,0 +1,1 @@
+# Disable-System-Intergrity-Protection-rootless-in-OS-X-El-Capitan
